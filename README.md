@@ -6,3 +6,6 @@
 
 ## Docker
 1. [Docker入门](https://github.com/beikeliu/docker-learning)
+
+## CI
+1. [GitHub Action使用记录](https://github.com/beikeliu/MyBlog/issues/2)
