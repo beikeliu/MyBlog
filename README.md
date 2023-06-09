@@ -12,6 +12,9 @@
 ### React
 1. [React18笔记](https://github.com/beikeliu/React-Study)
 
+### HTTP
+1. [HTTP强制缓存与协商缓存](https://github.com/beikeliu/MyBlog/issues/6)
+
 ## Docker
 1. [Docker入门](https://github.com/beikeliu/docker-learning)
 
