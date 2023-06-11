@@ -14,6 +14,7 @@
 
 ### HTTP
 1. [HTTP强制缓存与协商缓存](https://github.com/beikeliu/MyBlog/issues/6)
+2. [HTTP状态码](https://github.com/beikeliu/MyBlog/issues/7)
 
 ## Docker
 1. [Docker入门](https://github.com/beikeliu/docker-learning)
