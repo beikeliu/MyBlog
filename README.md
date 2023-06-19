@@ -11,6 +11,7 @@
 
 ### React
 1. [React18笔记](https://github.com/beikeliu/React-Study)
+2. [React受控组件和非受控组件](https://github.com/beikeliu/MyBlog/issues/8)
 
 ### HTTP
 1. [HTTP强制缓存与协商缓存](https://github.com/beikeliu/MyBlog/issues/6)
