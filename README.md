@@ -1,6 +1,9 @@
 ## HTML
 1. [Canvas和SVG的区别](https://github.com/beikeliu/MyBlog/issues/1)
 
+## CSS
+1. [flex布局的使用](https://github.com/beikeliu/css-flex)
+
 ## JavaScript
 1. [什么是闭包](https://github.com/beikeliu/MyBlog/issues/3)
 2. [原型链和继承](https://github.com/beikeliu/MyBlog/issues/4)
